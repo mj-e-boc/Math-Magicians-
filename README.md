@@ -54,7 +54,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-git clone https://github.com/mj-e-boc/Leaderboard-setup-project.git
+git clone https://github.com/mj-e-boc/Math-Magicians-.git
 ```
 open the project using:
 cd folder-name
