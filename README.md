@@ -54,7 +54,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-git clone https://github.com/mj-e-boc/Leaderboard-setup-project.git
+git clone https://github.com/mj-e-boc/Math-Magicians-.git
 ```
 open the project using:
 cd folder-name
@@ -110,6 +110,6 @@ I would like to thank the microverse Alumni that keep inspiring me to code.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/mj-e-boc/To-Do-List/blob/webpack-setup/LICENSE) licensed.
+This project is [MIT](https://github.com/mj-e-boc/Math-Magicians-/blob/Math-Magicians-Setup/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
